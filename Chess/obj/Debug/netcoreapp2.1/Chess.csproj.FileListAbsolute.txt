@@ -1,0 +1,10 @@
+D:\Backend\repos\EightQueens\Chess\bin\Debug\netcoreapp2.1\Chess.deps.json
+D:\Backend\repos\EightQueens\Chess\bin\Debug\netcoreapp2.1\Chess.dll
+D:\Backend\repos\EightQueens\Chess\bin\Debug\netcoreapp2.1\Chess.pdb
+D:\Backend\repos\EightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.csproj.AssemblyReference.cache
+D:\Backend\repos\EightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\repos\EightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.AssemblyInfoInputs.cache
+D:\Backend\repos\EightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.AssemblyInfo.cs
+D:\Backend\repos\EightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.csproj.CoreCompileInputs.cache
+D:\Backend\repos\EightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.dll
+D:\Backend\repos\EightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.pdb
